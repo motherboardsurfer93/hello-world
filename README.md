@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Interested to get into coding so thought this was a good place to start....
+Also I like fluffy dogs and nachos. 
